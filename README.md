@@ -2,13 +2,13 @@
 
 Assignment - 1
 Q-1 when we create a user ,some hidden files are genrated in the directory of the same user at that time . how is it done ?
-A-1  ls -a    /cmd use for to see the hidden file in linux
-      . / .. it is show that folders are hidden or not.
+Ans  ls -a    /cmd use for to see the hidden file in linux
+     . / .. it is show that folders are hidden or not.
 Q-2 make subdirectories inside a parent directory by using single mkdir command .
-A-  mkdir -p a/{a1,a2,b/c/c1}
+Ans-  mkdir -p a/{a1,a2,b/c/c1}
 
 Q-3 tac & cat cmd
-A-  The word tac is reverse of the word cat. 
+Ans-  The word tac is reverse of the word cat. 
     The tac command functionality is also reverse of the cat command. 
     cat command prints the file. tac command prints the file in reverse order with the last line first
 
