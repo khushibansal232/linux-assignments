@@ -1,5 +1,4 @@
 # linux-assignments
-day's assignment :
 
 1) change the Umask value for any user permanently.
 Ans.  Change the umask value in following files
